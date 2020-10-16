@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=CoreJavaSound
+comment1.params=
+comment1.target=CoreJavaSound()
+comment2.params=le
+comment2.target=void\ update(javax.sound.sampled.LineEvent)
+numComments=3
